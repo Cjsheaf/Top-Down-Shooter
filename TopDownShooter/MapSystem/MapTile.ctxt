@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MapTile()
+comment1.params=new_worldX\ new_worldY\ new_tileType\ new_isWalkable\ new_spriteIndexMap
+comment1.target=MapTile(int,\ int,\ int,\ boolean,\ java.util.TreeMap)
+comment2.params=tileToCopy
+comment2.target=MapTile(MapTile)
+comment3.params=
+comment3.target=TopDownShooter.CollisionSystem.BoundingBox\ getBoundingBox()
+comment4.params=
+comment4.target=void\ loadSprites()
+comment5.params=
+comment5.target=java.util.TreeMap\ getSpriteIndexes()
+comment6.params=
+comment6.target=java.util.TreeMap\ getSprites()
+comment7.params=layer\ new_spriteIndex
+comment7.target=void\ addSprite(int,\ SpriteIndex)
+comment8.params=layer
+comment8.target=void\ removeSprite(int)
+comment9.params=graphics\ screen
+comment9.target=void\ Draw(java.awt.Graphics,\ java.awt.Rectangle)
+numComments=10

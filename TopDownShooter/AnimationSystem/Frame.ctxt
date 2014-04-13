@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=new_image
+comment0.target=Frame(java.awt.image.BufferedImage)
+comment1.params=new_image\ new_keyFrame
+comment1.target=Frame(java.awt.image.BufferedImage,\ java.lang.String)
+numComments=2

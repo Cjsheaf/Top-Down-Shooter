@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vector2D()
+comment0.text=Constructors*******************
+comment1.params=xCoord\ yCoord
+comment1.target=Vector2D(double,\ double)
+comment2.params=new_coords
+comment2.target=Vector2D(java.awt.geom.Point2D.Double)
+comment3.params=vectorToCopy
+comment3.target=Vector2D(Vector2D)
+comment4.params=
+comment4.target=void\ normalize()
+comment4.text=Data\ Operations*******************
+comment5.params=screen\ origin
+comment5.target=void\ draw(java.awt.Graphics,\ java.awt.geom.Point2D.Double)
+comment5.text=Other\ Operations*******************
+comment6.params=vectorA\ vectorB
+comment6.target=double\ dotProduct(Vector2D,\ Vector2D)
+comment6.text=Static\ Utility\ Methods*******************
+comment7.params=vectorA\ vectorB
+comment7.target=Vector2D\ projectAOntoB(Vector2D,\ Vector2D)
+numComments=8

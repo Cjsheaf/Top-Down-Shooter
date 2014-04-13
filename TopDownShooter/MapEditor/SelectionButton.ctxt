@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=selectionCategory\ new_spriteNumber
+comment0.target=SelectionButton(java.lang.Enum,\ int)
+comment1.params=graphics
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ AddMouseListener()
+comment3.params=event
+comment3.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment4.params=event
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

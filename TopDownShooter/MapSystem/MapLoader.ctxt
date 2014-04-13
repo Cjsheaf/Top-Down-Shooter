@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=new_worldName
+comment0.target=MapLoader(java.lang.String)
+comment1.params=chunkWorldCoords
+comment1.target=MapChunk\ getChunk(java.awt.Point)
+comment2.params=chunkToSave
+comment2.target=void\ saveChunk(MapChunk)
+comment3.params=chunkWorldCoords
+comment3.target=MapChunk\ loadChunkFromFile(java.awt.Point)
+comment4.params=chunkToSave
+comment4.target=void\ saveChunkToFile(MapChunk)
+comment5.params=chunkWorldCoords
+comment5.target=MapChunk\ generateNewChunk(java.awt.Point)
+comment6.params=chunkWorldCoords
+comment6.target=MapChunk\ getTestChunk(java.awt.Point)
+numComments=7

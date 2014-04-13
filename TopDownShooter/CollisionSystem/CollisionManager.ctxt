@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CollisionManager()
+comment1.params=
+comment1.target=CollisionManager\ getInstance()
+comment2.params=
+comment2.target=void\ handleCollisions()
+comment3.params=newEntity
+comment3.target=void\ addCollidableEntity(Collidable)
+comment4.params=existingEntity
+comment4.target=void\ removeCollidableEntity(Collidable)
+comment5.params=entity
+comment5.target=boolean\ collideWithWorld(Collidable)
+comment6.params=entity
+comment6.target=boolean\ collideWithEntities(Collidable)
+numComments=7

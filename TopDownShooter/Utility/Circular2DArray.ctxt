@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=c\ sizeX\ sizeY
+comment0.target=Circular2DArray(java.lang.Class,\ int,\ int)
+comment1.params=new_offset
+comment1.target=void\ setOffset(java.awt.Point)
+comment2.params=index\ item
+comment2.target=void\ set(java.awt.Point,\ java.lang.Object)
+comment2.text=Sets\ the\ relative\ array\ location\ *
+comment3.params=index
+comment3.target=java.lang.Object\ get(java.awt.Point)
+comment3.text=Gets\ the\ relative\ array\ location\ *
+comment4.params=
+comment4.target=java.awt.Point\ size()
+comment5.params=column
+comment5.target=void\ pushLeft(java.lang.Object[])
+comment6.params=column
+comment6.target=void\ pushRight(java.lang.Object[])
+comment7.params=row
+comment7.target=void\ pushTop(java.lang.Object[])
+comment8.params=row
+comment8.target=void\ pushBottom(java.lang.Object[])
+comment9.params=relativeIndex
+comment9.target=java.awt.Point\ getAbsoluteIndex(java.awt.Point)
+comment9.text=Utility\ Methods\ *
+numComments=10

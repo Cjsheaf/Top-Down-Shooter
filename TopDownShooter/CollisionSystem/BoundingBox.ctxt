@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BoundingBox()
+comment1.params=new_x\ new_y\ new_halfWidth\ new_halfHeight
+comment1.target=BoundingBox(double,\ double,\ double,\ double)
+comment2.params=screenBounds
+comment2.target=BoundingBox(java.awt.Rectangle)
+comment2.text=\r\n\ Takes\ a\ Rectangle\ which\ has\ its\ origin\ in\ the\ upper-left\ corner\r\n
+comment3.params=
+comment3.target=java.awt.Rectangle\ toScreenBounds()
+comment4.params=box1\ box2
+comment4.target=TopDownShooter.Utility.Vector2D\ detectCollision(TopDownShooter.CollisionStuff.BoundingBox,\ TopDownShooter.CollisionStuff.BoundingBox)
+numComments=5

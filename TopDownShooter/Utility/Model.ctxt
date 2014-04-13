@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=new_view
+comment0.target=void\ addViewer(View)
+comment1.params=
+comment1.target=void\ notifyViewers()
+comment1.text=\r\n\ Whenever\ any\ data\ in\ the\ Model\ changes,\ all\ attached\ Views\ should\ be\ notified\r\n\ so\ they\ may\ update\ their\ display\ accordingly.\r\n
+numComments=2

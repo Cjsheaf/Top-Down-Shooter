@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=new_bounds\ new_speed\ new_maxVelocity\ new_friction\ startingHealth
+comment0.target=Entity(java.awt.Rectangle,\ double,\ double,\ double,\ int)
+comment1.params=
+comment1.target=void\ Update()
+comment2.params=
+comment2.target=java.awt.Point\ getPosition()
+comment3.params=
+comment3.target=CollisionSystem.BoundingBox\ getBoundingBox()
+comment4.params=new_x\ new_y
+comment4.target=void\ teleport(int,\ int)
+comment5.params=movementVector
+comment5.target=void\ move(Utility.Vector2D)
+comment6.params=movementVector
+comment6.target=void\ changeVelocity(Utility.Vector2D)
+comment7.params=
+comment7.target=void\ updateDirection()
+comment8.params=
+comment8.target=void\ updatePosition()
+comment9.params=graphics\ screen
+comment9.target=void\ Draw(java.awt.Graphics,\ java.awt.Rectangle)
+numComments=10

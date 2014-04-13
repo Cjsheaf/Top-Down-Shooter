@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MapChunk()
+comment1.params=chunkCoords
+comment1.target=MapChunk(java.awt.Point)
+comment2.params=localTileX\ localTileY\ new_tile
+comment2.target=void\ loadTile(int,\ int,\ TopDownShooter.MapStuff.MapTile)
+comment3.params=localTileX\ localTileY
+comment3.target=TopDownShooter.MapStuff.MapTile\ getTile(int,\ int)
+comment4.params=
+comment4.target=java.awt.Point\ getWorldCoordinates()
+comment5.params=localTileX\ localTileY\ new_mapTile
+comment5.target=void\ replaceTile(int,\ int,\ TopDownShooter.MapStuff.MapTile)
+comment6.params=newChunkData
+comment6.target=void\ replaceChunk(TopDownShooter.MapStuff.MapChunk)
+comment7.params=graphics\ screen
+comment7.target=void\ Draw(java.awt.Graphics,\ java.awt.Rectangle)
+numComments=8

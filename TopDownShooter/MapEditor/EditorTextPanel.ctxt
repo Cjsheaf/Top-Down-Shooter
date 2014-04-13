@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EditorTextPanel()
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=EditorTextPanel\ getInstance()
+comment3.params=text
+comment3.target=void\ addText(java.lang.String)
+comment4.params=
+comment4.target=void\ resize()
+numComments=5

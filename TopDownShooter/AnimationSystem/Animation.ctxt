@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=new_sheet
+comment0.target=Animation(TopDownShooter.ArtAssets.SpriteSheet)
+comment1.params=frameNumber
+comment1.target=TopDownShooter.AnimationStuff.Frame\ GetFrame(int)
+comment2.params=
+comment2.target=int\ GetNumberOfFrames()
+comment3.params=frameNumber\ new_keyFrame
+comment3.target=void\ AddKeyFrame(int,\ java.lang.String)
+numComments=4

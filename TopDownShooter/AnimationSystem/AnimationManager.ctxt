@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=frameDelay
+comment0.target=AnimationManager(int)
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=new_animation
+comment2.target=void\ AddNewAnimation(TopDownShooter.AnimationStuff.Animation)
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ GetCurrentImage()
+comment4.params=
+comment4.target=int\ GetCurrentAnimation()
+comment5.params=new_Animation
+comment5.target=void\ ChangeAnimation(int)
+comment5.text=\r\n\ Changes\ the\ animation\ to\ the\ appropriate\ Const\ value.\ Does\ nothing\ if\ the\ animation\ is\ already\ playing.\r\n
+comment6.params=new_delay
+comment6.target=void\ SetFrameDelay(int)
+comment7.params=
+comment7.target=void\ Start()
+comment8.params=
+comment8.target=void\ Stop()
+numComments=9

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EditorOverlayManager()
+comment1.params=graphics\ tilesToOverlay\ screen
+comment1.target=void\ drawOverlays(java.awt.Graphics,\ TopDownShooter.MapSystem.MapTile[][],\ java.awt.Rectangle)
+comment2.params=graphics\ tilesToOverlay\ screen
+comment2.target=void\ drawWalkableOverlay(java.awt.Graphics,\ TopDownShooter.MapSystem.MapTile[][],\ java.awt.Rectangle)
+numComments=3

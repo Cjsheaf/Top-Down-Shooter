@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=new_id
+comment0.target=TileCategory(int)
+comment1.params=x
+comment1.target=TopDownShooter.MapStuff.TileCategory\ fromInteger(int)
+numComments=2

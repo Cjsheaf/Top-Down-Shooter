@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=listener
+comment0.target=void\ addActionListener(java.awt.event.ActionListener)
+comment1.params=event
+comment1.target=void\ notifyListeners(java.awt.event.ActionEvent)
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpriteSheet()
+comment1.params=new_sheet\ numberOfSprites
+comment1.target=SpriteSheet(java.awt.image.BufferedImage,\ int)
+comment2.params=new_sheet\ columns\ rows
+comment2.target=SpriteSheet(java.awt.image.BufferedImage,\ int,\ int)
+comment3.params=new_sprites
+comment3.target=SpriteSheet(java.awt.image.BufferedImage[])
+comment4.params=spriteIndex
+comment4.target=java.awt.image.BufferedImage\ getSprite(int)
+comment5.params=
+comment5.target=int\ getNumberOfSprites()
+numComments=6

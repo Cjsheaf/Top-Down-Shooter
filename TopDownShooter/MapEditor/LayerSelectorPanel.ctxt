@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LayerSelectorPanel()
+comment1.params=
+comment1.target=void\ loadLayerSelectorPanel()
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ notifyChange()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CategoryPanel()
+comment1.params=
+comment1.target=void\ loadTileCategories()
+comment2.params=top
+comment2.target=void\ fillNodes(javax.swing.tree.DefaultMutableTreeNode)
+comment3.params=tree
+comment3.target=void\ addTreeSelectionListener(javax.swing.JTree)
+comment4.params=selectionEvent
+comment4.target=void\ valueChanged(javax.swing.event.TreeSelectionEvent)
+numComments=5

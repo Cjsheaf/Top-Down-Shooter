@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=startingPosition
+comment0.target=Player(java.awt.Point)
+comment1.params=
+comment1.target=void\ LoadAnimations()
+comment2.params=
+comment2.target=void\ Update()
+comment3.params=
+comment3.target=void\ processKeystrokes()
+comment4.params=event
+comment4.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment5.params=event
+comment5.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment6.params=event
+comment6.target=void\ keyTyped(java.awt.event.KeyEvent)
+numComments=7

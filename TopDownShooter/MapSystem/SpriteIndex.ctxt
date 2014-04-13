@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=new_category\ new_number
+comment0.target=SpriteIndex(TopDownShooter.MapStuff.TileCategory,\ int)
+numComments=1

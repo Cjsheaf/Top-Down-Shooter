@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SelectionModel()
+comment1.params=
+comment1.target=SelectionModel\ getInstance()
+comment10.params=new_listener
+comment10.target=void\ addActionListener(java.awt.event.ActionListener)
+comment11.params=event
+comment11.target=void\ notifyListeners(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ resetInstance()
+comment3.params=
+comment3.target=SelectionType\ getSelectionType()
+comment4.params=new_type\ new_category
+comment4.target=void\ setSelection(SelectionType,\ java.lang.Enum)
+comment5.params=
+comment5.target=java.lang.Enum\ getSelectionCategory()
+comment6.params=
+comment6.target=int\ getSelectedSpriteNumber()
+comment7.params=new_selectedSpriteNumber
+comment7.target=void\ setSelectedSpriteNumber(int)
+comment8.params=
+comment8.target=int\ getCurrentLayer()
+comment9.params=newLayer
+comment9.target=void\ setCurrentLayer(int)
+numComments=12

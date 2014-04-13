@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ViewScreen()
+comment1.params=
+comment1.target=ViewScreen\ getInstance()
+comment2.params=new_coords
+comment2.target=void\ CenterOnCoords(java.awt.Point)
+comment3.params=objectBoundingBox
+comment3.target=void\ CenterOnObject(CollisionSystem.BoundingBox)
+comment4.params=movementVector
+comment4.target=void\ Move(java.awt.Point)
+comment5.params=new_size
+comment5.target=void\ setSize(java.awt.Rectangle)
+comment6.params=
+comment6.target=java.awt.Rectangle\ getScreen()
+comment7.params=
+comment7.target=java.awt.Point\ getCenterOfScreen()
+comment8.params=object
+comment8.target=boolean\ isObjectOnscreen(java.awt.Rectangle)
+comment9.params=object\ screen
+comment9.target=boolean\ isObjectOnscreen(CollisionSystem.BoundingBox,\ java.awt.Rectangle)
+comment9.text=Utility\ Methods\ *
+numComments=10

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=mapLoaderReference\ chunkReference\ worldCoordinates
+comment0.target=LoadThread(TopDownShooter.MapStuff.MapLoader,\ TopDownShooter.MapStuff.MapChunk,\ java.awt.Point)
+comment1.params=
+comment1.target=void\ run()
+numComments=2
